@@ -59,6 +59,15 @@ Run the program:
 java DecodeLabs_Java_P1
 ```
 
+## 🌐 Live Demo
+
+The project can be executed online using OnlineGDB.
+
+👉 **[Launch Live Demo](https://onlinegdb.com/EoCdF4P4r6)**
+
+No local Java installation is required to try the online demo.
+
+
 ## 💡 Learning Outcome
 
 This project helped me strengthen my understanding of **Java programming fundamentals**, including random number generation, user input, loops, conditional statements, comparison operators, variables, and basic program flow.
